@@ -12,15 +12,13 @@
 </p>
 
 ---
-### TECNOLOGÍAS
-
-<div>
+</div>
 
 ### TECNOLOGÍAS
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
-<!-- LADO IZQUIERDO: íconos -->
+<!-- Íconos -->
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS" />
@@ -31,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" title="Illustrator" />
 </div>
 
-<!-- LADO DERECHO: estadística (Dracula theme) -->
+<!-- Estadística (Dracula theme) -->
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieStokess&layout=compact&theme=dracula&hide_title=true&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150" />
 </div>
