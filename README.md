@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
   <br><br>
-  <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
+  <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" align="right" width="200" alt="pastel goth computer" />
 </p>
 
 </div>
@@ -53,7 +53,7 @@
   </a>
   <br><br>
   <!-- GIF gótico -->
-  <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="200" alt="ouija gif" />
+  <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" align="right" width="200" alt="ouija gif" />
 
 </div>
 
