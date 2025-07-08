@@ -5,7 +5,10 @@
   Me apasiona crear interfaces funcionales, aprender nuevas tecnologías y crecer profesionalmente.
 </p>
 <p align="center">
-  🎮 Mi sueño es desarrollar videojuegos y algún día crear el mío, combinando diseño visual con experiencias interactivas únicas.
+  Mi sueño es desarrollar videojuegos y algún día crear el mío, combinando diseño visual con experiencias interactivas únicas.
+</p>
+<p align="center">
+  🎮🎮🎮🎮🎮
 </p>
 
 ---
@@ -37,18 +40,26 @@
 
 ### Conecta conmigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
-    <img src="https://64.media.tumblr.com/56b1afa69817f7d712d5ce48a1785513/tumblr_o4vjawh8ys1vpfd2ro1_500.gif" width="140" alt="Botón LinkedIn" />
-    <br>
-    <span style="color:pink; font-weight:bold;">LinkedIn</span>
-  </a>
-  <a href="mailto:tucorreo@gmail.com">
-    <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="140" alt="Botón Gmail" />
-     <br>
-    <span style="color:pink; font-weight:bold;">Gmail</span>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
+        <img src="Img/LinkedInlogo.png" width="120" alt="Botón murciélago LinkedIn" />
+        <br>
+        <span style="color:pink; font-weight:bold;">LinkedIn</span>
+      </a>
+      <br><br>
+      <a href="mailto:debbiear1997@gmail.com">
+        <img src="Img/GmailEnvelope.png" width="120" alt="Botón sobre kawaii Gmail" />
+        <br>
+        <span style="color:pink; font-weight:bold;">Gmail</span>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="220" alt="kawaii ghost computer" />
+    </td>
+  </tr>
+</table>
 
 ---
 
