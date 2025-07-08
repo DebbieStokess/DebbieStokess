@@ -65,18 +65,17 @@
   <a href="mailto:debbiear1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23dab4f7?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  
-  <!-- GIF gótico -->
-  <a href="#" align="right">
-    <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="200" alt="ouija gif" />
-  </a>
-
+<br><br>
   <a href="https://www.instagram.com/debbie_stks/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black&labelColor=dba8f0&color=dba8f0" />
   </a>
   <a href="https://discordapp.com/users/debbiestokes" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-ffffff?style=for-the-badge&logo=discord&logoColor=black&labelColor=dba8f0&color=dba8f0" />
   </a>
+    <a href="#" align="right">
+    <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="200" alt="ouija gif" />
+  </a>
+  
 </div>
 
 ---
