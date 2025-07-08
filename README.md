@@ -1,5 +1,5 @@
 <h1 align="center">
-  💀🌸 ¡Hola, soy Debbie! 🌸💀
+  🌸 ¡Hola, soy Debbie! 🌸
 </h1>
 
 <p align="center">
@@ -10,9 +10,7 @@
   Me apasiona crear interfaces funcionales, aprender nuevas tecnologías y crecer profesionalmente.
 </p>
 
-<p align="center">
-   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
-   </p>
+---
 
 ### Tecnologías que estoy aprendiendo
 
@@ -26,18 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
 </p>
 
-<p align="center">
-   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
-   </p>
+---
 
 ### Idiomas
 
 - 🇨🇴 Español (Nativo)  
 - 🇺🇸 Inglés (Avanzado)
 
-<p align="center">
-   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
-   </p>
+---
 
 ### Conecta conmigo
 
@@ -50,11 +44,7 @@
   </a>
 </p>
 
-
-<p align="center">
-   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
-   </p>
-   
+---
 
 <p align="center">
   🖤 “Crear es mi forma de existir. Ya sea con pixeles o código, todo lo que hago lleva una parte de mí.” 🖤
