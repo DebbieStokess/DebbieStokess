@@ -2,7 +2,9 @@
 
 <p align="center">
   Futura desarrolladora front-end autodidacta, actualmente aprendiendo programación web con cursos online y mucha práctica.  
-  Me apasiona crear interfaces funcionales, aprender nuevas tecnologías y crecer profesionalmente.  
+  Me apasiona crear interfaces funcionales, aprender nuevas tecnologías y crecer profesionalmente.
+</p>
+<p align="center">
   🎮 Mi sueño es desarrollar videojuegos y algún día crear el mío, combinando diseño visual con experiencias interactivas únicas.
 </p>
 
@@ -10,7 +12,7 @@
 
 ### Tecnologías que estoy aprendiendo
 
-<p align="center">
+<p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
@@ -20,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
 </p>
 
