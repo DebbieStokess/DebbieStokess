@@ -15,7 +15,7 @@
 
 ### Tecnologías que estoy aprendiendo
 
-<p align="center" width="60%">
+<p align="center" width="50%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
 </p>
 
-<p align="right" width="40%">
+<p align="right" width="50%">
   <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
 </p>
 
@@ -44,15 +44,11 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
-        <img src="Img/LinkedInlogo.png" width="120" alt="Botón murciélago LinkedIn" />
-        <br>
-        <span style="color:pink; font-weight:bold;">LinkedIn</span>
+        <img src="https://img.shields.io/badge/🦇%20LinkedIn-%23dab4f7?style=for-the-badge&logo=linkedin&logoColor=black" />
       </a>
       <br><br>
       <a href="mailto:debbiear1997@gmail.com">
-        <img src="Img/GmailEnvelope.png" width="120" alt="Botón sobre kawaii Gmail" />
-        <br>
-        <span style="color:pink; font-weight:bold;">Gmail</span>
+        <img src="https://img.shields.io/badge/💌%20Gmail-%23dab4f7?style=for-the-badge&logo=gmail&logoColor=black" />
       </a>
     </td>
     <td align="center" width="50%">
