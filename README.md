@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
 </p>
 
-<p align="right" width="40%">
+<p align="center" width="40%">
   <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
 </p>
 
@@ -40,9 +40,9 @@
 
 ### Conecta conmigo
 
-<table style="border: none;">
+<table>
   <tr>
-    <td style="border: none;" align="center" width="50%">
+    <td align="center">
       <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
         <img src="https://img.shields.io/badge/%20LinkedIn-%23dab4f7?style=for-the-badge&logo=linkedin&logoColor=black" />
       </a>
@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/%20Gmail-%23dab4f7?style=for-the-badge&logo=gmail&logoColor=black" />
       </a>
     </td>
-    <td style="border: none;" align="center" width="50%">
+    <td align="center">
       <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="220" alt="ouija" />
     </td>
   </tr>
