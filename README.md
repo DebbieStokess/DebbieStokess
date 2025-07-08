@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
 </p>
 
-<p align="right" width="40%">
+<p align="right" width="200%">
   <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
 </p>
 
@@ -42,20 +42,27 @@
 
 <div align="center">
 
-<table>
+<table style="border: none;">
   <tr>
-    <td style="border: none;" align="center" width="50%">
-      <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
+    <!-- Botones de contacto -->
+    <td align="center" valign="middle" style="border: none; padding-right: 30px;">
+      <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%23dab4f7?style=for-the-badge&logo=linkedin&logoColor=black" />
       </a>
       <br><br>
-      <a href="mailto:debbiear1997@gmail.com">
+      <a href="mailto:tucorreo@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23dab4f7?style=for-the-badge&logo=gmail&logoColor=black" />
       </a>
     </td>
-    <td style="border: none;" align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="220" alt="ouija" />
+    <!-- GIF gótico -->
+    <td align="center" valign="middle" style="border: none;">
+      <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="200" alt="ouija gif" />
     </td>
+  </tr>
+</table>
+
+</div>
+
 
 </table>
 
