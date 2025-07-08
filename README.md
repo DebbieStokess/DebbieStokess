@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio Code" />
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" title="Illustrator" />
@@ -68,6 +69,12 @@
   <!-- GIF gótico -->
   <a href="#" align="right">
     <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="200" alt="ouija gif" />
+  </a>
+  <a href="https://www.instagram.com/debbie_stks/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black&labelColor=dba8f0&color=dba8f0" />
+  </a>
+  <a href="https://discordapp.com/users/debbiestokes" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-ffffff?style=for-the-badge&logo=discord&logoColor=black&labelColor=dba8f0&color=dba8f0" />
   </a>
 </div>
 
