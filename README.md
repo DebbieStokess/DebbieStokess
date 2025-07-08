@@ -16,7 +16,7 @@
 
 <div>
 
-<p align="40%">
+<p align="80%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
@@ -28,7 +28,7 @@
 </p>
 
 
-<p align="80%">
+<p align="20%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieStokess&layout=compact&theme=radical&hide_title=true&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150" />
 </p>
 
