@@ -12,7 +12,7 @@
 
 ### Tecnologías que estoy aprendiendo
 
-<p align="center">
+<p align="center" width="60%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
 </p>
 
-<p align="right">
+<p align="right" width="40%">
   <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
 </p>
 
@@ -40,9 +40,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
     <img src="https://64.media.tumblr.com/56b1afa69817f7d712d5ce48a1785513/tumblr_o4vjawh8ys1vpfd2ro1_500.gif" width="140" alt="Botón LinkedIn" />
+    <br>
+    <span style="color:pink; font-weight:bold;">LinkedIn</span>
   </a>
   <a href="mailto:tucorreo@gmail.com">
     <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="140" alt="Botón Gmail" />
+     <br>
+    <span style="color:pink; font-weight:bold;">Gmail</span>
   </a>
 </p>
 
