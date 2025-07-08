@@ -10,7 +10,9 @@
   Me apasiona crear interfaces funcionales, aprender nuevas tecnologías y crecer profesionalmente.
 </p>
 
----
+<p align="center">
+   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
+   </p>
 
 ### Tecnologías que estoy aprendiendo
 
@@ -18,39 +20,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/Python-original.svg" width="45" title="Python" />
-  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
 </p>
 
----
+<p align="center">
+   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
+   </p>
 
 ### Idiomas
 
-- 🇪🇸 Español (nativo)  
-- 🇺🇸 Inglés (intermedio-avanzado)  
+- 🇨🇴 Español (Nativo)  
+- 🇺🇸 Inglés (Avanzado)
 
----
+<p align="center">
+   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
+   </p>
 
 ### Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23fbb1d8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:debbiear1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23fbb1d8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TgmiJ4AZ3HSiIqpOj6/giphy.gif" width="500" alt="pastel goth coding" />
-</p>
-
----
+   <img src= "https://img1.picmix.com/output/stamp/normal/7/8/4/3/1593487_6b558.gif">
+   </p>
+   
 
 <p align="center">
   🖤 “Crear es mi forma de existir. Ya sea con pixeles o código, todo lo que hago lleva una parte de mí.” 🖤
