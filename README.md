@@ -12,7 +12,7 @@
 
 ### Tecnologías que estoy aprendiendo
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
@@ -38,11 +38,11 @@
 ### Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
-    <img src="https://i.imgur.com/YF2jULj.png" width="140" alt="Botón murciélago LinkedIn" />
+  <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
+    <img src="https://64.media.tumblr.com/56b1afa69817f7d712d5ce48a1785513/tumblr_o4vjawh8ys1vpfd2ro1_500.gif" width="140" alt="Botón LinkedIn" />
   </a>
   <a href="mailto:tucorreo@gmail.com">
-    <img src="https://i.imgur.com/9ftMC3q.png" width="140" alt="Botón sobre kawaii Gmail" />
+    <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="140" alt="Botón Gmail" />
   </a>
 </p>
 
