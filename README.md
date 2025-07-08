@@ -24,8 +24,11 @@
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" title="Illustrator" />
-  <br><br>
-  <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="500%" alt="pastel goth computer" />
+
+</p>
+
+<p align="right">
+  <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="250" alt="pastel goth computer" />
 </p>
 
 </div>
