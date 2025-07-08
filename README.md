@@ -1,13 +1,9 @@
-<h1 align="center">
-  🌸 ¡Hola, soy Debbie! 🌸
-</h1>
+<h1 align="center">🌸 ¡Hola, soy Debbie! 🌸</h1>
 
 <p align="center">
-  Futura desarrolladora front-end autodidacta, actualmente aprendiendo programación web con cursos online y mucha práctica.
-</p>
-
-<p align="center">
-  Me apasiona crear interfaces funcionales, aprender nuevas tecnologías y crecer profesionalmente.
+  Futura desarrolladora front-end autodidacta, actualmente aprendiendo programación web con cursos online y mucha práctica.  
+  Me apasiona crear interfaces funcionales, aprender nuevas tecnologías y crecer profesionalmente.  
+  🎮 Mi sueño es desarrollar videojuegos y algún día crear el mío, combinando diseño visual con experiencias interactivas únicas.
 </p>
 
 ---
@@ -16,9 +12,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://png.pngtree.com/png-vector/20250106/ourmid/pngtree-vintage-pink-computer-with-retro-futuristic-wallpaper-on-screen-png-image_15067743.png" width="220" alt="pastel goth computer" />
-    </td>
+
     <td align="center" width="50%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
@@ -28,6 +22,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Photoshop" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
     </td>
+    <td align="center" width="50%">
+      <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
+    </td>
   </tr>
 </table>
 
@@ -35,19 +32,19 @@
 
 ### Idiomas
 
-- 🇨🇴 Español (Nativo)  
-- 🇺🇸 Inglés (Avanzado)
+- 🇨🇴 Español (nativo - Colombia)  
+- 🇺🇸 Inglés (intermedio-avanzado)
 
 ---
 
 ### Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23fbb1d8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+    <img src="https://i.imgur.com/YF2jULj.png" width="140" alt="Botón murciélago LinkedIn" />
   </a>
-  <a href="mailto: debbiear1997@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23fbb1d8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:tucorreo@gmail.com">
+    <img src="https://i.imgur.com/9ftMC3q.png" width="140" alt="Botón sobre kawaii Gmail" />
   </a>
 </p>
 
