@@ -16,7 +16,12 @@
 
 <div>
 
-<p align="80%">
+### TECNOLOGÍAS
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+
+<!-- LADO IZQUIERDO: íconos -->
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
@@ -24,13 +29,15 @@
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" title="Illustrator" />
+</div>
 
-</p>
+<!-- LADO DERECHO: estadística (Dracula theme) -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieStokess&layout=compact&theme=dracula&hide_title=true&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150" />
+</div>
 
+</div>
 
-<p align="20%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieStokess&layout=compact&theme=radical&hide_title=true&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150" />
-</p>
 
 <p align="right">
   <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="250" alt="pastel goth computer" />
