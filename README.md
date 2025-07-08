@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<p align="center">
+<p align="40%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
@@ -28,7 +28,7 @@
 </p>
 
    <!-- Estadísticas de lenguajes más usados -->
-<p align="left">
+<p align="60%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieStokess&layout=compact&theme=radical&hide_title=true&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150" />
 </p>
 
