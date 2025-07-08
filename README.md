@@ -73,6 +73,7 @@
   <a href="https://www.instagram.com/debbie_stks/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black&labelColor=dba8f0&color=dba8f0" />
   </a>
+  <br><br>
   <a href="https://discordapp.com/users/debbiestokes" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-ffffff?style=for-the-badge&logo=discord&logoColor=black&labelColor=dba8f0&color=dba8f0" />
   </a>
