@@ -13,8 +13,8 @@
 
 ---
 ### TECNOLOGÍAS
-<>
-    <!-- Íconos de tecnologías a la derecha -->
+<table>
+  <tr>
     <td align="center" width="50%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
@@ -24,12 +24,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Photoshop" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
     </td>
-    <!-- GIF pastel goth ESPEJADO a la izquierda -->
-    <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" style="transform: scaleX(-1);" />
+    <td align="center">
+      <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="200" alt="pastel goth computer" />
     </td>
   </tr>
-  
+</table>
 
 ---
 
@@ -62,14 +61,7 @@
     </td>
   </tr>
 </table>
-
-</div>
-
-
-</table>
-
-</div>
-
+<!-- End of contact section -->
 
 ---
 
