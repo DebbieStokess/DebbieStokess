@@ -47,14 +47,16 @@
 <div align="center">
 
   <!-- Botones de contacto -->
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23dab4f7?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:debbiear1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23dab4f7?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <br><br>
+   <!-- Estadísticas de lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieStokess&layout=compact&theme=radical&hide_title=true&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150" />
   <!-- GIF gótico -->
   <a href="#" align="right">
     <img src="https://i.pinimg.com/originals/62/1d/2d/621d2d2376e9b5b6d6be9a253ed25d04.gif" width="200" alt="ouija gif" />
