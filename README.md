@@ -28,9 +28,9 @@
 </p>
 
    <!-- Estadísticas de lenguajes más usados -->
-   <a align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieStokess&layout=compact&theme=radical&hide_title=true&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150" />
-  </a>
+</p>
 
 <p align="right">
   <img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" width="250" alt="pastel goth computer" />
