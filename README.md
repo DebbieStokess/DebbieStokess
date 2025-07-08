@@ -14,15 +14,22 @@
 
 ### Tecnologías que estoy aprendiendo
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://png.pngtree.com/png-vector/20250106/ourmid/pngtree-vintage-pink-computer-with-retro-futuristic-wallpaper-on-screen-png-image_15067743.png" width="220" alt="pastel goth computer" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Photoshop" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" title="Illustrator" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,7 +46,7 @@
   <a href="https://www.linkedin.com/in/debacu97/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23fbb1d8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:debbiear1997@gmail.com">
+  <a href="mailto: debbiear1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23fbb1d8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
